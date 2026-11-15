@@ -1,0 +1,26 @@
+{
+    "student_information": {
+        "seed_digit": 9,
+        "id_sum": 21
+    },
+    "filter_criteria": {
+        "operating_system": "iOS",
+        "user_behavior_class": 5
+    },
+    "dataset_information": {
+        "total_records": 700,
+        "records_matching_os": 146,
+        "records_in_target_class": 31,
+        "invalid_data_values": 0
+    },
+    "usage_summary": {
+        "average_battery_drain_mAh_per_day": 2727.97,
+        "average_data_usage_MB_per_day": 1940.9,
+        "valid_battery_records": 31,
+        "valid_data_records": 31
+    },
+    "export_information": {
+        "exported_csv": "filtered_mobile_users.csv",
+        "exported_record_count": 31
+    }
+}

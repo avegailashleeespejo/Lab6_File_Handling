@@ -1,0 +1,46 @@
+       CYBERSECURITY INCIDENT REPORT
+
+STUDENT INFORMATION
+SEED_DIGIT: 9
+ID_SUM: 21
+Target Year: 2024
+
+DATASET INFORMATION
+Total records: 3000
+Incidents in target year: 299
+Invalid year records: 0
+
+ATTACK TYPE COUNTS
+DDoS: 54
+Malware: 43
+Man-in-the-Middle: 47
+Phishing: 62
+Ransomware: 53
+SQL Injection: 40
+
+FINANCIAL LOSS SUMMARY
+Total financial loss: 15434.29 Million USD
+Average financial loss: 51.62 Million USD
+Invalid financial values: 0
+
+FIVE COSTLIEST INCIDENTS
+1. DDoS - 99.99 Million USD
+   Country: China
+2. SQL Injection - 99.31 Million USD
+   Country: Russia
+3. DDoS - 99.28 Million USD
+   Country: Japan
+4. Ransomware - 99.03 Million USD
+   Country: France
+5. Phishing - 98.95 Million USD
+   Country: France
+
+OUTPUT FILE INFORMATION
+Filtered CSV: output\filtered_incidents.csv
+JSON Summary: output\cybersecurity_summary.json
+JSON Backup: output\cybersecurity_summary_backup.json
+
+FILE VERIFICATION
+CSV exists: True
+JSON exists: True
+Backup exists: True

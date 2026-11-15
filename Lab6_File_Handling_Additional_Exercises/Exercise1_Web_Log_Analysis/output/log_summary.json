@@ -1,0 +1,39 @@
+{
+    "student_information": {
+        "seed_digit": 9,
+        "id_sum": 21
+    },
+    "records_processed": 1021,
+    "target_status_class": "3xx",
+    "records_in_target_class": 165,
+    "invalid_records": 0,
+    "count_per_status_code": {
+        "200": 843,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "/",
+            "request_count": 47
+        },
+        {
+            "url": "/process.php",
+            "request_count": 35
+        },
+        {
+            "url": "/contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest",
+            "request_count": 34
+        },
+        {
+            "url": "/home.php",
+            "request_count": 9
+        },
+        {
+            "url": "/logout.php",
+            "request_count": 7
+        }
+    ]
+}
