@@ -1,0 +1,5 @@
+Student: Espejo 
+Student ID: TUPM-26-1129 
+Seed digit: 9
+ID sum: 21
+Verification value: 135

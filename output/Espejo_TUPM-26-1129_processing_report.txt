@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------.- 
+Last Name: Espejo 
+Student ID: TUPM-26-1129
+Seed Digit: 9 
+ID Sum: 21 
+Verification Value: 135 
+Dataset Sample Size: 71
+Valid Records: 71 
+Average Global Active Power: 4.015 
+JSON File: Espejo_TUPM-26-1129_record.json 
+Backup File: Espejo_TUPM-26-1129_record.csv
